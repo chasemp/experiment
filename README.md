@@ -1,4 +1,4 @@
 experiment
 ==========
 
-worst examples and crap code, always disposable
+You gotta try stuff
